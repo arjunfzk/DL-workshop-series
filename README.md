@@ -20,7 +20,9 @@ Models:
 11. YOLO
 12. RefineNet
 
-## Slides
+
 Link to the presentation: https://drive.google.com/open?id=1sXztx3E9M3G0BIRLh6sxaqVOEOdJVJTrzHOixA5b-rM
+
+
 
 Cheat Sheet: ![Alt text](https://github.com/Machine-Learning-Tokyo/DL-workshop-series/blob/rearrangement/Part%20I:%20Convolution%20Operations/ConvOps_CheatSheet.jpg?raw=true "Cheat Sheet: Conv. Operations")
